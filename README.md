@@ -1,17 +1,12 @@
 ## Hi there 👋
 
-I'm Abdelrahman Ahmed, a  generative AI engineer from Sudan 
+I'm Abdelrahman Ahmed, a  generative AI engineer with passion to learn and apply this learning to solve real-world problems.
 
-**Contact:**
-* 📫 [Email] [abdalrhmanalsh6@gmail.com]
-* [LinkedIn] [www.linkedin.com/in/abdelrahman-yasir-342193235]
+## About
+- 🔭 I’m currently working on improving my Machine Learning and Generative AI Engineering skills
+- 📫 How to reach me:[Email] (abdalrhmanalsh6@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB-y1&hide_progress=true)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AB-y1/contributions?format=svg&private=false)  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
