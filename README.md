@@ -6,7 +6,7 @@ I'm Abdelrahman Ahmed, a  generative AI engineer from Sudan
 * Email: [abdalrhmanalsh6@gmail.com]
 * LinkedIn: [www.linkedin.com/in/abdelrahman-yasir-342193235]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB-y1&hide_progress=true)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman)](https://github.com/anuraghazra/github-readme-stats)
 
